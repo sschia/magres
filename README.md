@@ -15,3 +15,5 @@ Contact Information:
 
 - Jorge Andrés Díaz Pace - ISISTAN (CONICET - UNCPBA) - adiazpace@isistan.unicen.edu.ar
 - Silvia Schiaffino - ISISTAN (CONICET - UNCPBA) - silvia.schiaffino@isistan.unicen.edu.ar
+- Daniela Godoy - ISISTAN (CONICET - UNCPBA)
+- Yves Demazeau - LIG - Grenoble
