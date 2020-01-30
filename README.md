@@ -3,7 +3,7 @@ MAS-based group recommendation: MAGRES
 
 This repository contains information about the main characteristics of the proposed group recommendation approach and the experimental evaluation of MAGRES for recommending POIs for group of users. 
 
-
+![Proposed Approach]approach.jpg)
 
 
 The content of the repository is the following:
